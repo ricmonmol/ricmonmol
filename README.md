@@ -1,4 +1,4 @@
-### Aloha 👋
+### Hola! 👋
 
 My name is Ricardo, I considered myself as a tech enthusiastic 🛰️ 📡 💻 I also like urban farming 🌾 and cool-tech agriculture 🚜!. 
 
