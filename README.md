@@ -2,7 +2,7 @@
 
 My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic 🛰️ 📡 💻 I also like urban farming 🌾 and modern agriculture such as hydroponics or automated greenhouses 🌻!
 
-I'm a **fullstack developer** *MERN* student.
+I'm a **fullstack developer** student.
 
 ### Languages and Tools:
  
