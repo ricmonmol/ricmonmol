@@ -18,6 +18,7 @@ I'm a **fullstack developer** student.
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>]("https://www.linux.org/")
 [<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/cb/Raspberry_Pi_Logo.svg/1621px-Raspberry_Pi_Logo.svg.png" alt="raspberry" width="35" height="40" />]("https://www.raspberrypi.com/")
 [<img alt="arduino" width="40" height="40" src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png" />](https://www.arduino.cc/) 
+[<img alt="vim" width="40" height="40" src="https://www.vim.org/images/vim_small.gif" />](https://www.vim.org/) 
 
 
 
