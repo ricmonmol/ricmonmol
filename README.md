@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic 🛰️ 📡 💻 I also like urban farming 🌾 and modern agriculture such as hydroponics or automated greenhouses 🌻!
+My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic 🛰️ 📡 💻 I also like urban farming 🌾 3D printing, archery, music and a lot of nerd stuff!
 
 I'm a **fullstack developer** student.
 
