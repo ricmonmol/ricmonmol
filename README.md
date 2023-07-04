@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic 🛰️ 📡 💻 I also like urban farming 🌾 3D printing, archery, music and a lot of nerd stuff!
+My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic 🛰️ 📡 💻 I also like urban farming 🌾 3D printing, robotics, archery, music and a lot of nerd stuff!
 
 **Fullstack developer**.
 
@@ -18,6 +18,7 @@ My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>]("https://www.linux.org/")
 [<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/cb/Raspberry_Pi_Logo.svg/1621px-Raspberry_Pi_Logo.svg.png" alt="raspberry" width="35" height="40" />]("https://www.raspberrypi.com/")
 [<img alt="arduino" width="40" height="40" src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png" />](https://www.arduino.cc/) 
+[<img alt="johnny-five" width="40" height="40" src="https://johnny-five.io/img/j5-logo.svg" />](https://johnny-five.io/)
 [<img alt="vim" width="40" height="40" src="https://www.vim.org/images/vim_small.gif" />](https://www.vim.org/) 
 
 
