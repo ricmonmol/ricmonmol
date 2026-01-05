@@ -2,7 +2,7 @@
 
 My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic. I also like 3D printing, robotics, music and a lot of nerd stuff!
 
-**Software developer**. Typescript, Node, Nestjs, React, React-Native.
+**Software developer**. Typescript, Node, Nestjs, React, React-Native, Angular, Python. Learning IA Engineering.
 
 
 
