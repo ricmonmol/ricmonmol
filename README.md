@@ -1,10 +1,23 @@
-### Hola! 
+# Hi, I'm Ricardo 👋
 
-My name is Ricardo Montecinos Molina, I considered myself as a tech enthusiastic. I also like 3D printing, robotics, music and a lot of nerd stuff!
+Software developer, engineer, Linux user.
 
-**Software developer**. Typescript, Node, Nestjs, React, React-Native, Angular, Python. Learning IA Engineering.
+Focused on mobile development, software architecture and building reliable systems.
 
+Tech areas I work with:
 
+- React Native
+- JavaScript / TypeScript
+- Linux workflows
+- Maps & geospatial applications
+- State management & UI systems
+
+Currently expanding into:
+
+- Machine Learning
+- Artificial Intelligence
+- LLM ecosystems
+- AI-assisted development workflows
 
 ### You can find me here:
 
