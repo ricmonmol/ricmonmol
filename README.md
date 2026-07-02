@@ -14,7 +14,7 @@ Tech areas I work with:
 
 Currently expanding into:
 
-- Machine Learning
+- Machine & Deep Learning
 - Artificial Intelligence
 - LLM ecosystems
 - AI-assisted development workflows
